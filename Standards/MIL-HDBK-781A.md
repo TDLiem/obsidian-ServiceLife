@@ -9,7 +9,7 @@ tags:
 
 * **Tên tiếng Anh:** Handbook for Reliability Test Methods, Plans, and Environments for Engineering Development, Qualification, and Production
 * **Tên tiếng Việt:** Sổ tay về Phương pháp, Kế hoạch và Môi trường Thử nghiệm Độ tin cậy trong Phát triển Kỹ thuật, Nghiệm thu và Sản xuất
-* **Năm cập nhật cuối:** Năm 1996 (Là tài liệu hướng dẫn thực hành đi kèm để hiện thực hóa các lý thuyết của MIL-HDBK-338B).
+* **Năm cập nhật cuối:** Năm 1996 (Là tài liệu hướng dẫn thực hành đi kèm để hiện thực hóa các lý thuyết của [[MIL-HDBK-338B]]).
 
 ## Đối tượng áp dụng
 * Quá trình nghiệm thu sản phẩm (Qualification), đánh giá chất lượng sản xuất loạt và lập kế hoạch thử nghiệm độ tin cậy (Reliability Growth/Demonstration) của các mô-đun tổ hợp.
